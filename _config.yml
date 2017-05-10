@@ -1,4 +1,5 @@
 full_rebuild: true
+port: 4343
 name: Gridster
 description: the material experience for jekyll
 destination: jekyllbuild
@@ -9,11 +10,8 @@ paginate: 8
 paginate_path: /page/:num/
 infinite_scroll: true #change to false if you want to use pagination
 gems: [jekyll-paginate]
-tag_dir: /tag
-category_dir: /category
-author_dir: /author
 author_title_prefix: 'Posted by '
-media_folder: /media/compressed
+media_folder: /media
 author_default_avatar: /profile-pic.jpg
 tumblr: "#"
 pinterest: "#"
