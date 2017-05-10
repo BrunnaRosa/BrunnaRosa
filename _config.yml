@@ -1,7 +1,7 @@
 full_rebuild: true
 port: 4343
-name: Gridster
-description: the material experience for jekyll
+name: Nome Do Site
+description: um site legal
 destination: jekyllbuild
 url: #place url
 baseurl: #place folder name if site is served in subfolder
