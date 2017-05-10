@@ -3,8 +3,8 @@ port: 4343
 name: Nome Do Site
 description: um site legal
 destination: jekyllbuild
-url: #place url
-baseurl: #place folder name if site is served in subfolder
+url: http://meuSite.com
+baseurl: ''
 permalink: /:title/
 paginate: 8
 paginate_path: /page/:num/
@@ -25,14 +25,23 @@ defaults:
   -
     scope:
       path: ""
+      type: "pages"
+    values:
+      layout: "page-full"
+      type: "standard"
+      homedisplay: "featimg"
+  -
+    scope:
+      path: ""
       type: "posts"
     values:
       layout: "post-full"
       type: "standard"
       homedisplay: "featimg"
+
 markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
 relative_permalinks: false
-exclude: [.git, .gitignore, sass, .sass-cache, package.json, gruntfile.js, node_modules, README.md, jekyllbuild]
+exclude: [.git, .gitignore, .sass-cache, README.md, jekyllbuild]
