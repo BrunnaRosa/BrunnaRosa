@@ -1,11 +1,7 @@
 ---
-author: someone
-layout: post-full
 type: gallery
 featimg: gallery-2.jpg
 title: Gallery Alternative
-tags: [gallery, image]
-category: [image]
 gallery:
     - images:
       - filename: gallery-1.jpg
