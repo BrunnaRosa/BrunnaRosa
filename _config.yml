@@ -10,9 +10,7 @@ paginate: 8
 paginate_path: /page/:num/
 infinite_scroll: true #change to false if you want to use pagination
 gems: [jekyll-paginate]
-author_title_prefix: 'Posted by '
 media_folder: /media
-author_default_avatar: /profile-pic.jpg
 tumblr: "#"
 pinterest: "#"
 instagram: "#"
