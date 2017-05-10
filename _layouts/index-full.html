@@ -11,13 +11,14 @@
         </header>
         <div class="margin">
             <div class="content">
+                {% include index-intro.html %}
                 <div class="switch">
                     <div id="grid"><span></span></div>
                     <div id="classic"><span></span></div>
                 </div>
                 {% if page.title %}<h1 class="title">{{ page.title }}</h1>{% endif %}
                 <div class="articles">
-                    {{ content }}
+                  {% include index-postlist.html %}
                 </div>
             </div>
         </div>
