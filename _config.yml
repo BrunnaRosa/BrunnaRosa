@@ -21,6 +21,7 @@ vimeo: "#"
 soundcloud: "#"
 
 encoding: utf-8
+featimg: homecover.jpg
 defaults:
   -
     scope:
@@ -44,4 +45,5 @@ kramdown:
   input: GFM
   syntax_highlighter: rouge
 relative_permalinks: false
+include: ['_pages']
 exclude: [.git, .gitignore, .sass-cache, README.md, jekyllbuild]

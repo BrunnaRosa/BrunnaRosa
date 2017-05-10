@@ -1,7 +1,8 @@
-<div class="row">
-    <a href="{{ site.baseurl | replace: '//', '/' }}/" class="logo noline">
-        {% include full.html %}
-        {% include logo.html %}
-        {% include icon.html %}
+<div class="logo-image-container">
+    <a href="{{ site.baseurl | replace: '//', '/' }}/">
+      <div class="logo-image">
+        {% assign thumb = site.featimg | replace: '.jpg', '' %}
+        <img src="{{ site.media_folder | prepend: site.baseurl | replace: '//', '/'}}/covers/{{ thumb | append: '.jpg' }}" alt="{{ thumb }}">
+      </div>
     </a>
 </div>
