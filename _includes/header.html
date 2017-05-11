@@ -10,7 +10,9 @@
     <div class="logo-image {{ imgHeight }}" style="background-image: url({{ imgSrc }});">
       <img src="{{ imgSrc }}" alt="{{ thumb }}">
     </div>
-    <a class="logo-text" href="{{ site.baseurl | replace: '//', '/' }}/">
-      <p>{{ site.name }}</p>
-    </a>
+    <div class="logo-background">
+      <a class="logo-text" href="{{ site.baseurl | replace: '//', '/' }}/">
+        {{ site.name }}
+      </a>
+    </div>
 </div>
