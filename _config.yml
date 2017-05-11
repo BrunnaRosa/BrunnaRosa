@@ -1,16 +1,20 @@
-full_rebuild: true
-port: 4343
 name: Nome Do Site
 description: um site legal
-destination: jekyllbuild
+featimg: homecover.jpg
+
 url: http://meuSite.com
 baseurl: ''
+port: 4343
 permalink: /:title/
+
+media_folder: /media
+destination: jekyllbuild
+full_rebuild: true
+gems: [jekyll-paginate]
 paginate: 8
 paginate_path: /page/:num/
 infinite_scroll: true #change to false if you want to use pagination
-gems: [jekyll-paginate]
-media_folder: /media
+
 tumblr: "#"
 pinterest: "#"
 instagram: "#"
@@ -21,7 +25,7 @@ vimeo: "#"
 soundcloud: "#"
 
 encoding: utf-8
-featimg: homecover.jpg
+
 defaults:
   -
     scope:
