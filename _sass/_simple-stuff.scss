@@ -1,0 +1,43 @@
+.logo-container {
+  position: relative;
+
+  .logo-image {
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center;
+    background-size: cover;
+    max-height: 320px;
+
+    img {
+      visibility: hidden;
+    }
+  }
+
+  .logo-image-home {
+    max-height: 450px;
+  }
+
+  .logo-text {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 35px;
+    margin: auto;
+    color: #fff;
+    font: 900 32px Roboto;
+    line-height: 1;
+    text-align: center;
+    background: linear-gradient(rgba(0,0,0,0), rgba(0,0,0,0.5), rgba(0,0,0,0));
+    
+    @media (min-width: 500px) {
+      font-size: 64px;
+      height: 70px;
+    }
+    @media (min-width: 1000px) {
+      font-size: 100px;
+      height: 110px;
+    }
+  }
+}
