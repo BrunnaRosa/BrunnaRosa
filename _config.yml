@@ -3,7 +3,7 @@ description: um site legal
 featimg: homecover.jpg
 
 url: http://meuSite.com
-baseurl: '/gridster-jekyll-theme-simple'
+baseurl: '/BrunnaRosa'
 port: 4343
 permalink: /:title/
 
