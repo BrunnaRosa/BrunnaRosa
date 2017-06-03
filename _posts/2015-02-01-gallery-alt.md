@@ -1,5 +1,5 @@
 ---
-type: gallery
+type: standard
 featimg: gallery-2.jpg
 title: Gallery Alternative
 gallery:
