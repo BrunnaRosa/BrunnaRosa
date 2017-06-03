@@ -58,15 +58,15 @@ $link-color: $dark-primary-color;
 // String Variables (use strings as values | for Font Variables: Don't forget to include the fonts)
 //------------------------------------------
 
-$main-font: 'Roboto', 'Calibri', 'Arial', sans-serif;
+$main-font: 'Roboto', sans-serif;
 
 // set to $main-font if you don't want your headings to use another font
-$headings-font: $main-font;
+$headings-font: 'Ubuntu', sans-serif;
 
 // use values from text-transform [none|capitalize|uppercase|lowercase|initial|inherit]
 $headings-text-transform: none;
 
-$code-font: 'Source Code Pro', Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+$code-font: 'Source Code Pro', monospace;
 
 // size variables (use numbers as values (units as indicated ))
 
