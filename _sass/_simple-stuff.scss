@@ -39,31 +39,39 @@
     color: #fff;
     text-align: center;
     transition: text-shadow 0.1s linear;
-    text-transform: uppercase;
+    text-transform: lowercase;
+    font-feature-settings: "liga" 0;
 
-    font: 900 48px Roboto;
+    font: 300 48px Ubuntu;
+    letter-spacing: 24px;
+    text-indent: 24px;
 
     @media (min-width: 600px) {
       font-size: 64px;
       height: 110px;
+      letter-spacing: 32px;
+      text-indent: 32px;
     }
     @media (min-width: 1000px) {
       font-size: 80px;
       height: 160px;
+      letter-spacing: 48px;
+      text-indent: 48px;
     }
   }
 
   .logo-text-subtitle {
-    font: 300 24px Roboto;
+    font: 300 16px Roboto;
     text-transform: none;
+    letter-spacing: normal;
+    text-indent: 0;
 
     @media (min-width: 600px) {
-      font-size: 32px;
+      font-size: 24px;
     }
     @media (min-width: 1000px) {
-      font-size: 40px;
+      font-size: 32px;
     }
-    line-height: 0.5;
   }
 
   .logo-text:hover {
