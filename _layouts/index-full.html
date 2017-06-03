@@ -13,9 +13,12 @@
             <div class="content">
                 {% include index-intro.html %}
                 <div class="switch">
+                  {% comment %}
                     <div id="grid"><span></span></div>
                     <div id="classic"><span></span></div>
+                  {% endcomment %}
                 </div>
+
                 {% if page.title %}<h1 class="title">{{ page.title }}</h1>{% endif %}
                 <div class="articles">
                   {% include index-postlist.html %}
