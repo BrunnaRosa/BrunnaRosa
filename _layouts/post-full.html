@@ -36,7 +36,11 @@
                         {% endif %}
 
                         <h1 class="post-title">
-                            {{ page.title }}
+                            {% assign mTitle = page.title %}
+                            {% if page.nav-title %}
+                              {% assign mTitle = page.nav-title %}
+                            {% endif %}
+                            {{ mTitle }}
                         </h1>
                         {% if page.date %}
                         <div class="meta">
