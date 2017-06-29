@@ -1,7 +1,6 @@
 ---
-type: standard
-featimg: gallery-2.jpg
 title: Gallery Alternative
+featimg: gallery-2.jpg
 gallery:
     - images:
       - filename: gallery-1.jpg
@@ -32,8 +31,6 @@ Galleries are defined in a data-sheet, set type and gallery-id in front matter a
 
 ```yml
 ---
-layout: post-full
-type: gallery
 gallery:
     - images:
       - filename: gallery-1.jpg
