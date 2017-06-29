@@ -63,7 +63,7 @@ prose:
     - fonts
     - CNAME
     - LICENCE
-    - index.html
+    - README.md
     - media/favicons
     - media/covers
     - _pages/404.md
