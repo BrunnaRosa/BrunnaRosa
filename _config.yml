@@ -7,6 +7,7 @@ baseurl: '/BrunnaRosa'
 port: 4343
 permalink: /:title/
 include: ['_pages']
+exclude: [.git, .gitignore, .sass-cache, README.md, jekyllbuild]
 
 media_folder: /media
 destination: jekyllbuild
@@ -46,8 +47,6 @@ kramdown:
   input: GFM
   syntax_highlighter: rouge
 relative_permalinks: false
-include: ['_pages']
-exclude: [.git, .gitignore, .sass-cache, README.md, jekyllbuild]
 
 # prose.io
 prose:
@@ -64,6 +63,7 @@ prose:
     - CNAME
     - LICENCE
     - README.md
+    - feed.xml
     - media/favicons
     - media/covers
     - _pages/404.md
