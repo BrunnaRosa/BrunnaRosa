@@ -48,3 +48,70 @@ kramdown:
 relative_permalinks: false
 include: ['_pages']
 exclude: [.git, .gitignore, .sass-cache, README.md, jekyllbuild]
+
+# prose.io
+prose:
+  media: 'media'
+  ignore:
+    - .gitignore
+    - _config.yml
+    - _layouts
+    - _includes
+    - _sass
+    - css
+    - js
+    - fonts
+    - CNAME
+    - LICENCE
+    - index.html
+    - media/favicons
+    - media/covers
+    - _pages/404.md
+  metadata:
+    _pages:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "page-full"
+      - name: "nav-title"
+        field:
+          element: "text"
+          label: "nome da página"
+      - name: "permalink"
+        field:
+          element: "text"
+          label: "o url para essa página"
+          placeholder: "/url-da-pagina/"
+    _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post-full"
+      - name: "title"
+        field:
+          element: "text"
+          label: "nome do post"
+      - name: "featimg"
+        field:
+          element: "text"
+          label: "imagem de capa para a página (o que aparece nas listagens. deixar em branco se for usar outra media)"
+          placeholder: "1.jpg"
+      - name: "yt-video-id"
+        field:
+          element: "text"
+          label: "id do video no youtube"
+          placeholder: "JUT-3jGyjoM"
+      - name: "vimeo-embed"
+        field:
+          element: "text"
+          label: "código de embed do vimeo"
+          placeholder: "<iframe src='https://player.vimeo.com/video/107591790' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+      - name: "audio-embed"
+        field:
+          element: "text"
+          label: "código de embed de áudio"
+          placeholder: "<iframe width='100%' height='450' src='https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/188464611&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true'></iframe>"
+      - name: "published"
+        field:
+          element: "hidden"
+          value: "true"
