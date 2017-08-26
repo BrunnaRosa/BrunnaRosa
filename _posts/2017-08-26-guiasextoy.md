@@ -1,6 +1,6 @@
 ---
 title: "Guia rápido de materias dos sex toys"
-featimg: 10.jpg
+featimg: 12.jpg
 ---
 Escolher um 'sex toy' (ou 'brinquedo sexual') pode gerar uma série de dúvidas e uma delas é sobre o tipo de material utilizado na fabricação. Brinquedos sexuais são feitos de uma grande variedade de materiais, mas nem todos eles são seguros para colocar dentro de nós.Este é um tema que aqui no Fluid Lab é levado muito a sério, afinal ao escolher um sex toy, o material é tão importante quanto o preço e a função.
 
