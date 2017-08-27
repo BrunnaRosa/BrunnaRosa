@@ -17,39 +17,15 @@
         </nav>
         <nav class="iconnav">
             <ul>
-                {% if site.tumblr %}
-                <li class="social">
-                    <a href="{{ site.tumblr }}" class="tumblr"><i class="fa fa-tumblr"></i></a>
-                </li>
-                {% endif %} {% if site.pinterest %}
-                <li class="social">
-                    <a href="{{ site.pinterest }}" class="pinterest"><i class="fa fa-pinterest"></i></a>
-                </li>
-                {% endif %} {% if site.instagram %}
-                <li class="social">
-                    <a href="{{ site.instagram }}" class="instagram"><i class="fa fa-instagram"></i></a>
-                </li>
-                {% endif %} {% if site.twitter %}
-                <li class="social">
-                    <a href="{{ site.twitter }}" class="twitter"><i class="fa fa-twitter"></i></a>
-                </li>
-                {% endif %} {% if site.facebook %}
-                <li class="social">
-                    <a href="{{ site.facebook }}" class="facebook"><i class="fa fa-facebook"></i></a>
-                </li>
-                {% endif %} {% if site.youtube %}
-                <li class="social">
-                    <a href="{{ site.youtube }}" class="youtube"><i class="fa fa-youtube"></i></a>
-                </li>
-                {% endif %} {% if site.vimeo %}
-                <li class="social">
-                    <a href="{{ site.vimeo }}" class="vimeo"><i class="fa fa-vimeo-square"></i></a>
-                </li>
-                {% endif %} {% if site.soundcloud %}
-                <li class="social">
-                    <a href="{{ site.soundcloud }}" class="soundcloud"><i class="fa fa-soundcloud"></i></a>
-                </li>
-                {% endif %}
+              {% for social in site.social %}
+                {% unless social[1] == "" %}
+                  <li class="social">
+                    <a class="menu-item" href="{{ social[1] }}" target="_blank">
+                      <i class="fa fa-{{ social[0] }}" aria-hidden="true"></i>
+                    </a>
+                  </li>
+                {% endunless %}
+              {% endfor %}
             </ul>
         </nav>
         <a href='#menu' class="toggle-link noline">

@@ -17,14 +17,15 @@ paginate: 8
 paginate_path: /page/:num/
 infinite_scroll: true #false for pagination
 
-tumblr: "#"
-pinterest: "#"
-instagram: "#"
-twitter: "#"
-facebook: ""
-youtube: ""
-vimeo: ""
-soundcloud: "#"
+social:
+  tumblr: "#"
+  pinterest: "#"
+  instagram: "#"
+  twitter: "#"
+  facebook: "#"
+  youtube: "#"
+  vimeo-square: "#"
+  soundcloud: "#"
 
 encoding: utf-8
 
