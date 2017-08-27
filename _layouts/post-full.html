@@ -27,17 +27,19 @@
                           <img class="featimg" src="{{ site.media_folder | prepend: site.baseurl | replace: '//', '/'}}/{{ page.featimg }}" alt="{{ page.featimg }}">
                         {% endif %}
 
-                        <h1 class="post-title">
+                        <h3 class="post-title">
                             {% assign mTitle = page.title %}
                             {% if page.nav-title %}
                               {% assign mTitle = page.nav-title %}
                             {% endif %}
                             {{ mTitle }}
-                        </h1>
+                        </h3>
                         {% if page.date %}
                         <div class="meta">
                             <span class="date">
+                              <!--
                                 Published on {{ page.date | date: '%B %d, %Y' }}
+                              -->
                             </span>
                         </div>
                         {% endif %}
