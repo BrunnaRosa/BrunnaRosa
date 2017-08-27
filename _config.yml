@@ -2,8 +2,8 @@ name: FluidLab
 description: Curadoria em brinquedos eróticos
 featimg: homecover.jpg
 
-url: http://meuSite.com
-baseurl: '/BrunnaRosa'
+url: http://fluidlab.com.br
+baseurl: ''
 port: 4343
 permalink: /:title/
 include: ['_pages']
@@ -21,9 +21,9 @@ tumblr: "#"
 pinterest: "#"
 instagram: "#"
 twitter: "#"
-facebook: "#"
-youtube: "#"
-vimeo: "#"
+facebook: ""
+youtube: ""
+vimeo: ""
 soundcloud: "#"
 
 encoding: utf-8
