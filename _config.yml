@@ -13,7 +13,7 @@ media_folder: /media
 destination: jekyllbuild
 full_rebuild: true
 gems: [jekyll-paginate]
-paginate: 8
+paginate: 800
 paginate_path: /page/:num/
 infinite_scroll: true #false for pagination
 
