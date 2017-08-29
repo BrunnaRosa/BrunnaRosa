@@ -26,34 +26,34 @@ Seu corpo deve ser seu melhor amigo - é uma das únicas coisas que estarão com
 3. <b> Pode melhorar sua vida sexual </b>  
 A masturbação permite que você explore seu corpo e descubra o que a faz se sentir melhor. Conhecer o seu corpo desta forma poderá torná-la mais confiante na cama e mais vocal com os parceiros. Depois de descobrir o que gosta, você poderá dizer ao parceiro onde tocar você.
 
-<b> 4. Ajuda a dormir. </b> 
+ 4. <b>Ajuda a dormir</b> 
 Existe um motivo pelo qual a maioria de nós se sente tão sonolenta depois desse clímax arrepiante: os orgasmos física e emocionalmente aliviam a tensão e esgotam o corpo, o que permite que você caia no sono mais rápido. "Geralmente as pessoas não dormem melhor depois de se masturbar, mas, muitas vezes, é por se sentirem relaxadas e satisfeitas", disse Streicher. A masturbação ajuda as pessoas a dormirem do mesmo jeito que ler um livro antes de dormir faz - você se sente mais calmo e relaxado.
 
-<b> 5. É uma ótima maneira de liberar a tensão sexual. </b>   
+ 5. <b>É uma ótima maneira de liberar a tensão sexual </b>   
 Se você optou por não ter relações sexuais ou simplesmente está passando por um período de seca, a masturbação é uma ótima maneira de satisfazer a sua libido.
 
-<b>  6. A masturbação pode aliviar dores no corpo e dores menstruais </b> 
+6. <b>A masturbação pode aliviar dores no corpo e dores menstruais </b> 
 "Se você tem uma contração uterina enquanto se autoestimula, essa contração poderá ajudar o sangue menstrual a sair mais rápido... teoricamente vai ajudar com as cólicas", disse Streicher. Enquanto ela adverte que a pesquisa por trás deste benefício é relativamente limitada, ela disse que não há nenhuma razão para não se masturbar no período menstrual: "Não é nunca algo ruim e se vai ajudá-la, então vá atrás disso." De todas as formas é mais divertido do que uma bolsa de água quente.
 
-<b>7. Alivia o estresse </b>  
+7. <b>Alivia o estresse </b>  
 "Qualquer coisa que faz você se sentir mais relaxada e leva você a se desligar do seu dia, faça você yoga ou uma massagem nos pés, é tudo a mesma coisa", disse Streicher. "Não é que tenha que ser sexual, mas o sexo e a autoestimulação é, definitivamente, uma das maneiras de aliviar o estresse. "Soa como uma maneira impressionante de se descontrair.
 
-<b> 8. A masturbação ajuda o seu corpo a se manter sexual... mesmo quando você não está fazendo sexo </b>  
+8. <b> A masturbação ajuda o seu corpo a se manter sexual... mesmo quando você não está fazendo sexo </b>  
 "Se você está dando um tempo para relacionamentos, há um benefício muito forte para manter as coisas ao se autoestimular - não só em termos de manter os tecidos elásticos e saudáveis e aumentar o fluxo sanguíneo, mas de manter seu cérebro funcionando", disse Streicher. "Nós sabemos que o sexo e a excitação começam no cérebro... Quanto mais sexo você tem, mais sexo você vai querer porque você pensa mais sobre sexo. Quando você tem alguém que não teve sexo por um período muito longo de tempo, na maioria dos casos, essa pessoa nem sequer está pensando nisso."
 
-<b> 9. Há toneladas de aparelhos legais para ajudar você a se masturbar (Aqui na loja da FLuidLab você pode encontras vários vibradores!!!) </b>  
+9. <b>Há toneladas de aparelhos legais para ajudar você a se masturbar (Aqui na loja da FLuidLab você pode encontras vários vibradores!!!) </b>  
 Desde vibradores de mãos-livres até vibradores em forma de batom, há um vibrador para cada mulher.
 
-<b> 10. Se você está em um relacionamento, é uma ótima maneira de misturar as coisas - e mantê-lo voltando para mais </b>
+10. <b>Se você está em um relacionamento, é uma ótima maneira de misturar as coisas - e mantê-lo voltando para mais </b>
 Como observou Streicher, quanto mais sexo você tem, mais sexo você vai querer ter. Também é correto dizer que, quanto mais você se masturba e torna-se confortável com o seu próprio corpo, mais você vai querer ter sexo com o seu parceiro. "Sabemos que ser autossexual vai estimular a parte do cérebro que mantém sua libido viva e funcionando bem", disse Streicher.
 
-<b> 11. Orgasmos. Múltiplos. Orgasmos </b>  
+11. <b>Orgasmos. Múltiplos. Orgasmos </b>  
 Entender como seu corpo funciona ajuda a saber exatamente como lhe dar prazer. Uma, duas, três vezes - a decisão é sua! O clímax é muitas vezes só no final do sexo com os homens, mas as mulheres podem continuar. Por que se satisfazer com um?
 
-<b> 12. Não há desvantagens </b>
+12. <b>Não há desvantagens </b>
 A masturbação não tem "absolutamente nenhum efeito negativo", disse Streicher. "Nada de ruim pode acontecer se você se masturbar - você não pega nada, não engravida, nem fica doente. É um vício que faz você se sentir bem e não tem repercussões negativas."
 
-<b> 13. É incrivelmente f#d*. Nem precisa explicar </b>   
+13. <b>É incrivelmente f#d*. Nem precisa explicar </b>   
 Limpe sua agenda, um tempo para "mim" começa agora.
 
 Este artigo foi originalmente publicado pelo HuffPost US e traduzido do inglês.
