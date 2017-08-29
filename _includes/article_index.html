@@ -30,6 +30,8 @@
     <span class="date">{{ post.date | date: '%B %d, %Y' }}</span>
     <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/'}}">
       <h1>{{ post.title }}</h1>
+    </a>
+    <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/'}}">
       <p class="post-content truncated-content">
         {{ post.content | strip_html | truncatewords: 15 }}
       </p>
