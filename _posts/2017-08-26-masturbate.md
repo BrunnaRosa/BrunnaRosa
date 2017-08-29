@@ -16,14 +16,14 @@ Ela disse que a masturbação pode trazer benefícios à sua saúde ajudando voc
 
 Então, diminua as luzes, acenda algumas velas e vá para a cama (ou qualquer que seja a sua rotina) - é hora de participar de um pouco de autoexploração. Aqui estão 13 razões que cada mulher tem para se masturbar regularmente:
 
-<b> 1. Vai deixar você mais feliz. </b> 
+1. <b> Vai deixar você mais feliz </b> 
 "Nós sabemos que o prazer faz as pessoas se sentirem bem", disse Streicher. É realmente muito simples. Os orgasmos liberam a endorfina, dopamina e oxitocina, que podem melhorar seu humor e criar uma sensação de estar "nas alturas".
 
 
-<b> 2. Você vai estar mais confortável com seu corpo. </b> 
+2. <b> Você vai estar mais confortável com seu corpo </b> 
 Seu corpo deve ser seu melhor amigo - é uma das únicas coisas que estarão com você a vida inteira. Explorá-lo faz parte da sua relação de amizade com ele. "É extremamente importante que as mulheres apreciem a sua própria anatomia e como se darem o autoprazer", disse Streicher. Força nos estudos, meninas.
 
-<b> 3. Pode melhorar sua vida sexual. </b>  
+3. <b> Pode melhorar sua vida sexual </b>  
 A masturbação permite que você explore seu corpo e descubra o que a faz se sentir melhor. Conhecer o seu corpo desta forma poderá torná-la mais confiante na cama e mais vocal com os parceiros. Depois de descobrir o que gosta, você poderá dizer ao parceiro onde tocar você.
 
 <b> 4. Ajuda a dormir. </b> 
