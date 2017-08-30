@@ -1,5 +1,7 @@
 ---
-title: "Quando você podia comprar um vibrador na loja de produtos domésticos"
+published: true
+layout: post-full
+title: Quando você podia comprar um vibrador na loja de produtos domésticos
 featimg: 14.jpg
 ---
 
@@ -11,6 +13,8 @@ Uma a cada quatro mulheres tinha algum tipo de “histeria”: dor de cabeça, n
 
 Desta maneira as mulheres se curavam da histeria…. Para facilitar o tratamento, Joseph Mortimer Granville, patenteou em 1880 o primeiro vibrador elétrico da história. Com a chegada do seculo XX e a energia elétrica, o vibrador feminino se popularizou como utensílios domésticos. O sucesso era tão grande que, em 1902 uma companhia norte americana de produtos domésticos, Hamilton Beach, lançou o primeiro vibrador elétrico para venda comercial. Na época o vibrador se tornava o SEXTO produto doméstico a ser adaptado para energia! Chegando nove anos antes do aspirador e DEZ anos antes do ferro elétrico!!!
 
-Em 1918 o famoso cátalogo de eletrodomésticos Sears incluiu um vibrador portatil, anunciando como muito “útil e satisfatório para o uso caseiro”.
+
+Em 1918 o famoso cátalogo de eletrodomésticos Sears incluiu um vibrador portatil, anunciando como muito “útil e satisfatório para o uso caseiro”. ![12109191_245533775790550_1917818044163324354_n.png]({{site.baseurl}}/media/12109191_245533775790550_1917818044163324354_n.png)
+
 
 Mas o (pequeno) período de liberdade para os vibradores acabou completamente em meados do século XX. Dois motivos são apontados como os principais, em 1952 a Associaçao Americana de Psiquiatria declarou que a histeria feminina não era uma doença. E o segundo foi a apropriação dos vibradores pelos filmes pornos. Com isso os vibradores sumiram dos catálogos femininos e das lojas de departamentos, chegando inclusive a serem proibidos em alguns lugares dos Estados Unidos (falaremos sobre isso, em outro post :)
