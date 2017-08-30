@@ -2,6 +2,8 @@
 title: "13 razões para você se masturbar regularmente"
 featimg: 9.jpg
 ---
+![]({{ site.baseurl }}/media/9.jpg)
+
 Um pouco de FVC (Faça Você Mesmo) é o melhor amigo da mulher. A masturbação traz alguns incríveis benefícios para a saúde e fará com que você se sinta realmente muito bem.
 
 Pesquisas mostram que a maioria das mulheres com idade superior a 18 anos já se masturbaram pelo menos uma vez, mas poucas mulheres fazem isso com frequência. De acordo com a Pesquisa Nacional de Comportamento e Saúde Sexual da Universidade de Indiana, apenas 7,9 por cento das mulheres entre as idades de 25 e 29 anos se masturbam de duas a três vezes por semana, enquanto que a porcentagem de homens é de 23,4. 
