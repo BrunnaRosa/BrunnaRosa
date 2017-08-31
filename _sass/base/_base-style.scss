@@ -75,6 +75,8 @@ a{
     }
 
     color: $link-color;
+    font-weight: 900;
+    text-transform: uppercase;
 
     &:hover{
         cursor: pointer;
