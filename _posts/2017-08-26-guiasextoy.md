@@ -42,4 +42,4 @@ TPR (borracha termoplástica) é uma mistura de polímero que tem um caráter te
 
 Mas é só isso? Não, temos brinquedos que são #BodySafe e que são fabricados em vidro, metal, madeira e que vão integrar a nossa próxima seleção. Acompanhem nossas atualizações!
 
-Quero meu Toy! Então dá um pulinho na nossa loja virtual e escolha o seu!
+Quero meu Toy! Então dá um pulinho na nossa [loja virtual](https://laboratoriodosprazeres.com.br/){:target="_blank"} e escolha o seu!
