@@ -19,15 +19,15 @@ body{
     $fontsize: ($h1-fontsize + 0.64) - ($i * 0.64);
     h#{$i}{
 
-        font-size: (0.5 * $fontsize);
-        line-height: (1.1*0.5*$fontsize);
+        font-size: (0.42 * $fontsize);
+        line-height: (1.1*0.42*$fontsize);
 
         @media (min-width: 420px) {
           font-size: (0.8 * $fontsize);
           line-height: (1.1*0.8*$fontsize);
         }
 
-        @media (min-width: 720px) {
+        @media (min-width: 780px) {
           font-size: $fontsize;
           line-height: 1.1*$fontsize;
         }
