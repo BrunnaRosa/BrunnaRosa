@@ -15,4 +15,7 @@ Desta maneira as mulheres se curavam da histeria…. Para facilitar o tratamento
 
 
 Em 1918 o famoso cátalogo de eletrodomésticos Sears incluiu um vibrador portatil, anunciando como muito “útil e satisfatório para o uso caseiro”!
+![Faradic-galvanic-toning-1909.jpg]({{site.baseurl}}/media/Faradic-galvanic-toning-1909.jpg)
+
+
 Mas o (pequeno) período de liberdade para os vibradores acabou completamente em meados do século XX. Dois motivos são apontados como os principais, em 1952 a Associaçao Americana de Psiquiatria declarou que a histeria feminina não era uma doença. E o segundo foi a apropriação dos vibradores pelos filmes pornos. Com isso os vibradores sumiram dos catálogos femininos e das lojas de departamentos, chegando inclusive a serem proibidos em alguns lugares dos Estados Unidos (falaremos sobre isso, em outro post :)
