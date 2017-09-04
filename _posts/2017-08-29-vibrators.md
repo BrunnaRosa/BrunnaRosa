@@ -2,7 +2,7 @@
 published: true
 layout: post-full
 title: Quando você podia comprar um vibrador na loja de produtos domésticos
-featimg: 14.jpg
+featimg: 16.jpg
 ---
 
 Imagina só… Você sai para comprar um ventilador e lado a lado era possível comprar também um vibrador! Pois bem, por um breve período da nossa história isso era possível!
