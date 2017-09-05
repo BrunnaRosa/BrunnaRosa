@@ -1,5 +1,7 @@
 ---
-title: "Guia rápido de materias dos sex toys"
+published: true
+layout: post-full
+title: Guia rápido de materias dos sex toys
 featimg: 13.jpg
 ---
 Escolher um 'sex toy' (ou 'brinquedo sexual') pode gerar uma série de dúvidas e uma delas é sobre o tipo de material utilizado na fabricação. Brinquedos sexuais são feitos de uma grande variedade de materiais, mas nem todos eles são seguros para colocar dentro de nós.Este é um tema que aqui na <b>Fluid Lab</b> é levado muito a sério, afinal ao escolher um sex toy, o material é tão importante quanto o preço e a função.
@@ -43,3 +45,6 @@ TPR (borracha termoplástica) é uma mistura de polímero que tem um caráter te
 Mas é só isso? Não, temos brinquedos que são #BodySafe e que são fabricados em vidro, metal, madeira e que vão integrar a nossa próxima seleção. Acompanhem nossas atualizações!
 
 Quero meu Toy! Então dá um pulinho na nossa [loja virtual](https://laboratoriodosprazeres.com.br/){:target="_blank"} e escolha o seu!
+
+![46a00a5699340037e5a54c835d10910a.jpg]({{site.baseurl}}/media/46a00a5699340037e5a54c835d10910a.jpg)
+
