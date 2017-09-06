@@ -2,7 +2,7 @@
 published: true
 layout: post-full
 title: Primeira vez por aqui? Guia de sobrevivência FluidLab
-featimg: 17.jpg
+featimg: 19.jpg
 ---
  
 Somos a <b>FluidLab</b>, um laboratório dos prazeres. Surgimos em 2016, como uma curadoria de conteúdos e de produtos voltados para o prazer e para a saúde sexual e pélvica. Desde então, a gente vem fazendo a diferença pra quem quer gozar mais. 
