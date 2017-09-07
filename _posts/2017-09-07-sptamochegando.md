@@ -15,5 +15,6 @@ Nos juntamos com xs amigxs e projetamos Deus e o Diabo na Terra do Sol, do Glaub
 
 Confira algumas fotos e conheça a nossa [loja virtual](http://laboratoriodosprazeres.com.br/){:target="_blank"}.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/158938103@N02/albums/72157685961260940" title="Projeção FluidLab SP"><img src="https://farm5.staticflickr.com/4352/36690385610_770e2b9d25_b.jpg" width="1024" height="768" alt="Projeção FluidLab SP"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/158938103@N02/albums/72157685961260940" title="Projeção FluidLab SP"><img src="https://farm5.staticflickr.com/4352/36690385610_770e2b9d25_b.jpg" width="1024" height="768" alt="Projeção FluidLab SP"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"<a data-flickr-embed="true"  href="https://www.flickr.com/photos/158938103@N02/albums/72157685961260940" title="Projeção FluidLab SP"><img src="https://farm5.staticflickr.com/4352/36690385610_770e2b9d25_b.jpg" width="1024" height="768" alt="Projeção FluidLab SP"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></script>
+
 
