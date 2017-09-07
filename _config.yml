@@ -18,11 +18,11 @@ paginate_path: /page/:num/
 infinite_scroll: true #false for pagination
 
 social:
-  tumblr: "#"
-  pinterest: "#"
-  instagram: "#"
-  twitter: "#"
-  facebook: "#"
+  tumblr: ""
+  pinterest: ""
+  instagram: "https://www.instagram.com/fluid_lab/"
+  twitter: ""
+  facebook: "facebook.com/fluidlabb/"
   youtube: "https://www.youtube.com/channel/UCLlibxQZhDT2LtfbKvHyu1Q?view_as=subscriber"
   vimeo-square: ""
   soundcloud: ""
