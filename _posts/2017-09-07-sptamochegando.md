@@ -11,7 +11,7 @@ A Consolação é uma delas, via certa para quem se locomove pela cidade ou veio
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-rYhfRLTG7s" frameborder="0" allowfullscreen></iframe>
 
-Nos juntamos com xs amigxs e projetamos Deus e o Diabo na Terra do Sol, do Glauber Rocha na paredona na véspera do feriado da independência e  com alguns spoilers de que a Fluidlab- laboratório dos prazeres está chegando. 
+Nos juntamos com xs amigxs e projetamos Deus e o Diabo na Terra do Sol, do Glauber Rocha na paredona na véspera do feriado da independência e  com alguns spoilers de que a <b> Fluidlab- laboratório dos prazeres </b> está chegando. 
 
 Confira algumas fotos e conheça a nossa loja virtual.
 
