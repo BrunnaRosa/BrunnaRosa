@@ -17,6 +17,6 @@ Outra surpresa é que agora também estamos presentes fisicamente em São Paulo!
 Você, marinheira de primeira viagem, navegue pelo nosso site: tem curiosidades, dicas, vídeos e fotos. Na nossa lojinha, tem a melhor seleção de massageadores, vibradores, óleos e muito mais. Pra falar com a gente, é só mandar um email pra fluidlab@fluidlab.com.br. É um prazer te receber em nosso laboratório. 
 
 
-Conheça nossa [loja virtual](http://laboratoriodosprazeres.com.br/)
+Conheça nossa [loja virtual](http://laboratoriodosprazeres.com.br/){:target="_blank"}
 
-![]({{site.baseurl}}/media/Screenshot%20from%202017-09-04%2011%3A31%3A00.png)
+[![]({{site.baseurl}}/media/Screenshot%20from%202017-09-04%2011%3A31%3A00.png)](http://laboratoriodosprazeres.com.br/){:target="_blank"}

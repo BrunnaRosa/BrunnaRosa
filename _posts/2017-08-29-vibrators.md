@@ -23,4 +23,4 @@ Mas o (pequeno) período de liberdade para os vibradores acabou completamente em
 E aí já [conhece a nossa loja virtual](https://www.laboratoriodosprazeres.com.br/)?
 #sextoys #prazer #laboratóriodosprazeres
 
-![Screenshot from 2017-09-04 11:31:00.png]({{site.baseurl}}/media/Screenshot from 2017-09-04 11:31:00.png)
+[![]({{site.baseurl}}/media/Screenshot%20from%202017-09-04%2011%3A31%3A00.png)](http://laboratoriodosprazeres.com.br/){:target="_blank"}

@@ -60,5 +60,5 @@ A masturbação não tem "absolutamente nenhum efeito negativo", disse Streicher
 13. <b>É incrivelmente f#d*. Nem precisa explicar </b>   
 Limpe sua agenda, um tempo para "mim" começa agora.
 
-Este artigo foi originalmente publicado pelo [HuffPost US](http://www.huffpostbrasil.com/entry/reasons-women-should-masturbate_n_6172092)e traduzido do inglês.
+Este artigo foi originalmente publicado pelo [HuffPost US](http://www.huffpostbrasil.com/entry/reasons-women-should-masturbate_n_6172092) e traduzido do inglês.
 
