@@ -23,9 +23,9 @@ social:
   instagram: "#"
   twitter: "#"
   facebook: "#"
-  youtube: "#"
-  vimeo-square: "#"
-  soundcloud: "#"
+  youtube: "https://www.youtube.com/channel/UCLlibxQZhDT2LtfbKvHyu1Q?view_as=subscriber"
+  vimeo-square: ""
+  soundcloud: ""
 
 encoding: utf-8
 
