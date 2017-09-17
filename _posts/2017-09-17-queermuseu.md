@@ -1,13 +1,13 @@
 ---
 published: true
 layout: post-full
-title: Projetamos Queer Museu, a exposição censurada, em SP
+title: 'Projetamos Queer Museu, a exposição censurada, em SP'
 featimg: 21.jpg
 ---
  
-A exposição Queer Museu - cartografias da diferença na arte brasileira, com 270 trabalhos de 85 artistas diferentes, incluindo nomes reconhecidos nacional e internacionalmente, como Alfredo Volpi, Candido Portinari Adriana Varejão e Ligia Clark, que estava em exibição no Santander Cultural em Porto Alegre foi cancelada quase um mês antes do seu encerramento oficial, depois de receber acusações de apologia à pedofilia e à zoofilia. Com curadoria de Gaudêncio Fidelis, a mostra tinha a intenção de debater temas como direitos LGBT, racismo e violência religiosa. após protestos promovidos por grupos religiosos. 
+A exposição Queer Museu - cartografias da diferença na arte brasileira, com 270 trabalhos de 85 artistas diferentes, incluindo nomes reconhecidos nacional e internacionalmente, como Alfredo Volpi, Candido Portinari Adriana Varejão e Ligia Clark, que estava em exibição no Santander Cultural em Porto Alegre foi cancelada quase um mês antes do seu encerramento oficial, depois de receber acusações de "apologia à pedofilia e à zoofilia". Com curadoria de Gaudêncio Fidelis, a mostra tinha a intenção de debater temas como direitos LGBT, racismo e violência religiosa.
 
-Contrário a censura e certos de que a arte deve promover inquietação e questionamento a <b> FluidLab </b> projetou em plena Consolação a exibição censurada. Acreditamos que é parte do papel da arte abrir debates com a sociedade, por isso se eles fecham as exibições nós abrimos a céu aberto.  
+Contrário a censura e certxs de que a arte deve promover inquietação e questionamento a <b> FluidLab </b> projetou em plena Consolação (SP) a exibição censurada. Acreditamos que é parte do papel da arte abrir debates com a sociedade, por isso se eles fecham as exibições nós abrimos a céu aberto.  
 
 Confira algumas imagens da projeção e veja o nosso vídeo
 
@@ -16,6 +16,3 @@ Confira algumas imagens da projeção e veja o nosso vídeo
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Ffluidlabb%2Fvideos%2F520771861600072%2F&show_text=0&width=560" width="560" height="308" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
-Conheça nossa [loja virtual](http://laboratoriodosprazeres.com.br/){:target="_blank"}
-
-[![]({{site.baseurl}}/media/Screenshot%20from%202017-09-04%2011%3A31%3A00.png)](http://laboratoriodosprazeres.com.br/){:target="_blank"}
