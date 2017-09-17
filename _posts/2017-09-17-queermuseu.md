@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post-full
-title: Projetamos #QueerMuseu, a exposição censurada, em SP
+title: Projetamos Queer Museu, a exposição censurada, em SP
 featimg: 21.jpg
 ---
  
